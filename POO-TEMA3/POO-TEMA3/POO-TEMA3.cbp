@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="POO-TEMA3" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/POO-TEMA3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/POO-TEMA3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Card.h" />
+		<Unit filename="include/Cash.h" />
+		<Unit filename="include/Cec.h" />
+		<Unit filename="include/Firma.h" />
+		<Unit filename="include/Gestiune.h" />
+		<Unit filename="include/Tranzactie.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Card.cpp" />
+		<Unit filename="src/Cash.cpp" />
+		<Unit filename="src/Cec.cpp" />
+		<Unit filename="src/Firma.cpp" />
+		<Unit filename="src/Gestiune.cpp" />
+		<Unit filename="src/Tranzactie.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,219 @@
+# depslib dependency file v1.0
+1588872411 source:d:\poo-tema3\src\card.cpp
+	"Card.h"
+
+1588872411 d:\poo-tema3\include\card.h
+
+1588872402 source:d:\poo-tema3\src\cash.cpp
+	"Cash.h"
+
+1588872402 d:\poo-tema3\include\cash.h
+
+1588872422 source:d:\poo-tema3\src\cec.cpp
+	"Cec.h"
+
+1588872422 d:\poo-tema3\include\cec.h
+
+1588871084 source:d:\poo-tema3\src\gestiune.cpp
+	"Gestiune.h"
+
+1588871084 d:\poo-tema3\include\gestiune.h
+
+1588872385 source:d:\poo-tema3\src\tranzactie.cpp
+	"Tranzactie.h"
+
+1588944285 d:\poo-tema3\include\tranzactie.h
+
+1588946681 source:d:\poo-tema3\main.cpp
+	<iostream>
+	"Firma.h"
+	<bits/stdc++.h>
+
+1588946640 d:\poo-tema3\include\firma.h
+	<bits/stdc++.h>
+	<Tranzactie.h>
+
+1588946508 source:d:\poo-tema3\src\firma.cpp
+	"Firma.h"
+
+1588960955 source:c:\users\johnny\desktop\poo-tema3\main.cpp
+	<iostream>
+	"Firma.h"
+	<bits/stdc++.h>
+
+1588961633 c:\users\johnny\desktop\poo-tema3\include\firma.h
+	<bits/stdc++.h>
+	"Tranzactie.h"
+
+1588960395 c:\users\johnny\desktop\poo-tema3\include\tranzactie.h
+	<string>
+	<iostream>
+
+1588960640 source:c:\users\johnny\desktop\poo-tema3\src\card.cpp
+	"Card.h"
+	<iostream>
+
+1588959684 c:\users\johnny\desktop\poo-tema3\include\card.h
+	"Tranzactie.h"
+	<iostream>
+	<string>
+
+1588960633 source:c:\users\johnny\desktop\poo-tema3\src\cash.cpp
+	"Cash.h"
+	<string>
+	<iostream>
+
+1588959753 c:\users\johnny\desktop\poo-tema3\include\cash.h
+	<bits/stdc++.h>
+	"Tranzactie.h"
+
+1588960620 source:c:\users\johnny\desktop\poo-tema3\src\cec.cpp
+	"Cec.h"
+	<string>
+
+1588960011 c:\users\johnny\desktop\poo-tema3\include\cec.h
+	<string>
+	<iostream>
+	"Tranzactie.h"
+
+1588960145 source:c:\users\johnny\desktop\poo-tema3\src\firma.cpp
+	"Firma.h"
+	"Card.h"
+	"Cash.h"
+	"Cec.h"
+
+1588871084 source:c:\users\johnny\desktop\poo-tema3\src\gestiune.cpp
+	"Gestiune.h"
+
+1588961612 c:\users\johnny\desktop\poo-tema3\include\gestiune.h
+	<bits/stdc++.h>
+	"Card.h"
+	"Cec.h"
+	"Cash.h"
+
+1588960458 source:c:\users\johnny\desktop\poo-tema3\src\tranzactie.cpp
+	"Tranzactie.h"
+	<string>
+	<iostream>
+
+1588960955 source:c:\users\aib\downloads\poo-tema3 (2)\poo-tema3\main.cpp
+	<iostream>
+	"Firma.h"
+	<bits/stdc++.h>
+
+1588974716 c:\users\aib\downloads\poo-tema3 (2)\poo-tema3\include\firma.h
+	<bits/stdc++.h>
+	"Tranzactie.h"
+	"Gestiune.h"
+
+1588960395 c:\users\aib\downloads\poo-tema3 (2)\poo-tema3\include\tranzactie.h
+	<string>
+	<iostream>
+
+1588960640 source:c:\users\aib\downloads\poo-tema3 (2)\poo-tema3\src\card.cpp
+	"Card.h"
+	<iostream>
+
+1588959684 c:\users\aib\downloads\poo-tema3 (2)\poo-tema3\include\card.h
+	"Tranzactie.h"
+	<iostream>
+	<string>
+
+1588973948 source:c:\users\aib\downloads\poo-tema3 (2)\poo-tema3\src\cash.cpp
+	"Cash.h"
+	<string>
+	<iostream>
+
+1588959753 c:\users\aib\downloads\poo-tema3 (2)\poo-tema3\include\cash.h
+	<bits/stdc++.h>
+	"Tranzactie.h"
+
+1588960620 source:c:\users\aib\downloads\poo-tema3 (2)\poo-tema3\src\cec.cpp
+	"Cec.h"
+	<string>
+
+1588960011 c:\users\aib\downloads\poo-tema3 (2)\poo-tema3\include\cec.h
+	<string>
+	<iostream>
+	"Tranzactie.h"
+
+1588974716 source:c:\users\aib\downloads\poo-tema3 (2)\poo-tema3\src\firma.cpp
+	"Firma.h"
+	"Card.h"
+	"Cash.h"
+	"Cec.h"
+
+1588961761 source:c:\users\aib\downloads\poo-tema3 (2)\poo-tema3\src\gestiune.cpp
+	"Gestiune.h"
+
+1588974091 c:\users\aib\downloads\poo-tema3 (2)\poo-tema3\include\gestiune.h
+	<bits/stdc++.h>
+	"Card.h"
+	"Cec.h"
+	"Cash.h"
+
+1588960458 source:c:\users\aib\downloads\poo-tema3 (2)\poo-tema3\src\tranzactie.cpp
+	"Tranzactie.h"
+	<string>
+	<iostream>
+
+1589019452 source:c:\users\johnny\desktop\i love bob\poo-tema3\src\card.cpp
+	"Card.h"
+	<iostream>
+
+1589019446 c:\users\johnny\desktop\i love bob\poo-tema3\include\card.h
+	"Tranzactie.h"
+	<iostream>
+	<string>
+
+1588960395 c:\users\johnny\desktop\i love bob\poo-tema3\include\tranzactie.h
+	<string>
+	<iostream>
+
+1589019399 source:c:\users\johnny\desktop\i love bob\poo-tema3\src\cash.cpp
+	"Cash.h"
+	<string>
+	<iostream>
+
+1588959753 c:\users\johnny\desktop\i love bob\poo-tema3\include\cash.h
+	<bits/stdc++.h>
+	"Tranzactie.h"
+
+1588960620 source:c:\users\johnny\desktop\i love bob\poo-tema3\src\cec.cpp
+	"Cec.h"
+	<string>
+
+1588960011 c:\users\johnny\desktop\i love bob\poo-tema3\include\cec.h
+	<string>
+	<iostream>
+	"Tranzactie.h"
+
+1589025465 source:c:\users\johnny\desktop\i love bob\poo-tema3\main.cpp
+	<iostream>
+	"Firma.h"
+	<bits/stdc++.h>
+
+1589025779 c:\users\johnny\desktop\i love bob\poo-tema3\include\firma.h
+	<bits/stdc++.h>
+	"Tranzactie.h"
+	"Gestiune.h"
+
+1589026109 c:\users\johnny\desktop\i love bob\poo-tema3\include\gestiune.h
+	<bits/stdc++.h>
+	"Card.h"
+	"Cec.h"
+	"Cash.h"
+
+1589025824 source:c:\users\johnny\desktop\i love bob\poo-tema3\src\firma.cpp
+	"Firma.h"
+	"Card.h"
+	"Cash.h"
+	"Cec.h"
+
+1589026029 source:c:\users\johnny\desktop\i love bob\poo-tema3\src\tranzactie.cpp
+	"Tranzactie.h"
+	<string>
+	<iostream>
+
+1589016330 source:c:\users\johnny\desktop\i love bob\poo-tema3\src\gestiune.cpp
+
